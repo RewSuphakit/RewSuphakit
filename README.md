@@ -10,8 +10,9 @@ Web Developer
 * 🖥️  See my portfolio at [MyPortfolio](http://https://rewsuphakit.github.io/Mysite/)
 * 🧠  I'm learning KKTECH
 
-<a href="https://www.github.com/https://github.com/RewSuphakit" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/https://github.com/RewSuphakit?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/https://github.com/RewSuphakit" target="_blank" rel="noreferrer"><h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ### Skills
 

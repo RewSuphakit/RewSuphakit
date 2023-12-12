@@ -7,7 +7,7 @@ Web Developer
 เรียนอยู่ที่ วิทยาลัยเทคนิกขอนแก่น สาขาเทคโนโลยีสารสนเทศ(IT)
 
 * 🌍  I'm based in KhonKaen,Thailand
-* 🖥️  See my portfolio at [MyPortfolio](http://https://rewsuphakit.github.io/Mysite/)
+* 🖥️  See my portfolio at [MyPortfolio](https://rewsuphakit.github.io/Mysite/)
 * 🧠  I'm learning KKTECH
 
 <a href="https://www.github.com/https://github.com/RewSuphakit" target="_blank" rel="noreferrer">

@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=3282B8&random=false&width=435&lines=Hi+My+name+is+Suphakit+Lomlao)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=FF2E63&random=false&width=435&lines=Hi+My+name+is+Suphakit+Lomlao)](https://git.io/typing-svg)
 =======================================================================================================================================
 
 Web Developer

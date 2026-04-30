@@ -1,32 +1,163 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&pause=1000&color=FF2E63&random=false&width=435&lines=Hi+My+name+is+Suphakit+Lomlao)](https://git.io/typing-svg)
-=======================================================================================================================================
+<div align="center">
 
-Web Developer
--------------
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Suphakit%20Lomlao&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Developer%20%F0%9F%9A%80&descAlignY=60&descSize=20" />
 
-เรียนอยู่ที่ มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน วิทยาเขตขอนแก่น
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Suphakit+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;React+%7C+Vue+%7C+PHP+%7C+Python+%E2%9A%A1)](https://git.io/typing-svg)
 
-* 🌍  I'm based in KhonKaen,Thailand
-* 🖥️  See my portfolio at [MyPortfolio](https://rewsuphakit.github.io/Mysite/)
-* 🧠  I'm learning RMUTI
+<br/>
 
-<a href="https://www.github.com/https://github.com/RewSuphakit" target="_blank" rel="noreferrer">
+<!-- PROFILE VIEWS & FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=RewSuphakit&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/RewSuphakit?style=for-the-badge&color=0e75b6&label=FOLLOWERS" />
 
+</div>
 
-### Skills
+---
 
+<!-- ABOUT ME SECTION -->
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
+### 👨‍💻 About Me
 
+```yaml
+name: Suphakit Lomlao
+nickname: Rew
+location: KhonKaen, Thailand 🇹🇭
+university: RMUTI (Rajamangala University of
+             Technology Isan, Khon Kaen Campus)
+role: Web Developer
+focus: Building beautiful & functional web apps
+portfolio: rewsuphakit.github.io/Mysite/
+```
 
+- 🔭 Currently studying at **RMUTI Khon Kaen**
+- 🌱 Leveling up my **Full-Stack** skills every day
+- 💬 Ask me about **React, Vue, PHP, Python**
+- ⚡ Fun fact: I debug in my dreams 🐛
 
-### Socials
+<br clear="right"/>
 
-<p align="left"> <a href="https://github.com/RewSuphakit" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+---
 
+<!-- TECH STACK SECTION -->
+<div align="center">
 
-### Profile View
+### 🛠️ Tech Stack & Tools
 
-<img src="https://komarev.com/ghpvc/?username=RewSuphakit&style=flat-square&color=blue" alt=""/>
+#### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### ☁️ Cloud & Tools
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+#### 🎨 Design
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RewSuphakit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RewSuphakit&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RewSuphakit&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+
+</div>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+
+### 📈 Contribution Graph
+
+[![Suphakit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RewSuphakit&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+
+### 🐍 My Contributions Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RewSuphakit/RewSuphakit/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RewSuphakit/RewSuphakit/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RewSuphakit/RewSuphakit/output/github-snake.svg" />
+</picture>
+
+> ⚠️ Snake animation ต้องตั้งค่า GitHub Action ก่อน (ดูวิธีด้านล่าง)
+
+</div>
+
+---
+
+<!-- ACHIEVEMENTS / TROPHIES -->
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RewSuphakit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- CONNECT SECTION -->
+<div align="center">
+
+### 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rewsuphakit.github.io/Mysite/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RewSuphakit)
+
+</div>
+
+---
+
+<!-- QUOTE -->
+<div align="center">
+
+### 💭 Dev Quote of the Day
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
+<div align="center">
+  <i>⭐ Star some repositories if you find them interesting! ⭐</i>
+</div>

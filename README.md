@@ -117,8 +117,6 @@ portfolio: rewsuphakit.github.io/Mysite/
   <img alt="github-snake" src="https://raw.githubusercontent.com/RewSuphakit/RewSuphakit/output/github-snake.svg" />
 </picture>
 
-> ⚠️ Snake animation ต้องตั้งค่า GitHub Action ก่อน (ดูวิธีด้านล่าง)
-
 </div>
 
 ---

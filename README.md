@@ -30,7 +30,7 @@ university: RMUTI (Rajamangala University of
              Technology Isan, Khon Kaen Campus)
 role: Web Developer
 focus: Building beautiful & functional web apps
-portfolio: rewsuphakit.github.io/Mysite/
+portfolio: rewsuphakit.github.io/Portfolio_Rew/
 ```
 
 - 🔭 Currently studying at **RMUTI Khon Kaen**
@@ -137,7 +137,7 @@ portfolio: rewsuphakit.github.io/Mysite/
 
 ### 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rewsuphakit.github.io/Mysite/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rewsuphakit.github.io/Portfolio_Rew/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RewSuphakit)
 
 </div>
